@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HakikiAhmedDjeber
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning javascript 
+- 🌱 I’m currently working with React
 - 📫 How to reach me hakikiahmeddjeber@gmail.com
 
 <!---
